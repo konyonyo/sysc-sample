@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/yuichiro/work/tools/systemc-2.3.1a/lib-linux64:${LD_LIBRARY_PATH}
